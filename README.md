@@ -6,7 +6,7 @@
 
 <div>
   <samp>
-    <img align="right" width="290rem" height="auto" src="./images/code.gif"/>
+    <img align="right" width="290rem" height="auto" src="./images/graphic.png"/>
 
 - 🌱 I’m currently exploring **New Technologies**
 
