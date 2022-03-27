@@ -1,6 +1,6 @@
 <div align="center">
   <img width="200rem"; height="auto" src="./images/code.png"/>
-  <h1>Hi<img width="30rem" src="./images/hi.png">, I'm Abhay Jain</h1>
+  <h1>Hi<img width="30rem" src="./images/hi.gif">, I'm Abhay Jain</h1>
   <h3>Developer from India.</h3>
 </div>
 
