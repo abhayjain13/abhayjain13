@@ -208,38 +208,22 @@
     <a  href="https://dev.to/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://medium.com/@elanza48" target="_blank">
+    <a href="https://abhayjain13.medium.com" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="elanza48"/>
     </a>
   </div>
   <div>
-    <a  href="https://linkedin.com/in/elanza48" target="_blank">
+    <a  href="https://www.linkedin.com/in/abhayjain13" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="elanza48"/>
     </a>
-    <a href="https://twitter.com/elanza48" target="_blank">
+    <a href="https://twitter.com/abhayjain13" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="elanza48"/>
     </a>
     <a href="https://dribbble.com/elanza48" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="elanza48"/>
     </a>
   </div>
-  <div>
-    <a  href="https://www.codechef.com/users/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="elanza48"/>
-    </a>
-    <a href="https://www.hackerrank.com/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="elanza48"/>
-    </a>
-  </div>
-  <div>
-    <h3>Reach me</h3>
-    <a  href="https://t.me/elanza48" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="elanza48"/>
-    </a>
-    <a href="mailto:elanza48@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-      <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="elanza48"/>
-    </a>
-  </div>
+
 </div>
 <hr>
 
