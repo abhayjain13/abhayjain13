@@ -246,8 +246,8 @@
 <div align="center">
   <h2>Github stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=abhayjain13&count_private=true&show_icons=true&theme=radical"
-    alt="https://github.com/Elanza-48" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight" alt="https://github.com/Elanza-48" />
+    alt="https://github.com/abhayjain13" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjain13&theme=material-palenight" alt="https://github.com/abhayjain13" />
 </div>
 <hr>
 
