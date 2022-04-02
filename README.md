@@ -130,48 +130,6 @@
     </a>
   </div>
 
-  <div align="center">
-    <h3>Version Control & CI/CD</h3>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-        alt="git"/>
-    </a>
-    <a href="https://github.com" target="_blank">
-      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
-    <a href="https://bitbucket.org/" target="_blank">
-      <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"
-        alt="bitbucket"/>
-    </a>
-    <a href="https://gitlab.com" target="_blank">
-      <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-        alt="git"/>
-    </a>
-    <a href="https://www.jenkins.io" target="_blank"> 
-      <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-    </a>
-  </div>
-
-  <div align="center">
-    <h3>Preferred IDEs, Tools & Platform</h3>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-    </a>
-    <a href="https://postman.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-    </a>
-    <a href="https://www.apple.com/in/mac/" target="_blank"> 
-      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="mac"/>
-    </a>
-    <a href="https://ubuntu.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-    </a>
-    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> 
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
-    </a>
-  </div>
-  
-
 <div align="center">
   <h3>Connect with me</h3>
   <div>
