@@ -32,7 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjain13&theme=radical" alt="https://github.com/abhayjain13" />
 </div>
 
-<br><br>
+<br>
 
   <div align="center">
     <h3>Languages</h3>
