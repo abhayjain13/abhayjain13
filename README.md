@@ -4,10 +4,8 @@
   <h3>Developer from India.</h3>
 </div>
 
-<div>
+<div align="center">
   <samp>
-    <img align="right" width="290rem" height="auto" src="./images/graphic.png"/>
-
 - 🌱 I’m currently exploring **New Web Technologies**
 
 - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
