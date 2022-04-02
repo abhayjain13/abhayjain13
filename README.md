@@ -1,6 +1,6 @@
 <div>
   <samp>
-    <img align="right" width="300rem"; height="auto" src="./images/coder.webp"/>
+    <img align="right" width="300rem" height="auto" src="./images/coder.webp"/>
 
 - 🌱 I’m currently exploring **New Web Technologies**
 
