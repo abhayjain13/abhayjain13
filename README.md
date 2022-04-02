@@ -183,19 +183,25 @@
 <div align="center">
   <h3>Connect with me</h3>
   <div>
-    <a href="https://abhayjain13.medium.com" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="abhayjain13"/>
+    <a  href="https://www.facebook.com/abhayjain139" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
+    </a>
+    <a  href="https://www.linkedin.com/in/abhayjain13" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a  href="https://www.instagram.com/abhayjain13" target="_blank">
+      <img src="https://img.shields.io/badge/<abhayjain13>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
     </a>
   </div>
   <div>
-    <a  href="https://www.linkedin.com/in/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhayjain13"/>
-    </a>
     <a href="https://twitter.com/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="abhayjain13"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+    <a href="https://abhayjain13.medium.com" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
     </a>
     <a href="https://dribbble.com/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="abhayjain13"/>
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="dribbble"/>
     </a>
   </div>
 </div>
