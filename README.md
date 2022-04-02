@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
+- ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript**
   </samp>
 </div>
 
