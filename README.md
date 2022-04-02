@@ -8,7 +8,7 @@
   <samp>
     <img align="right" width="290rem" height="auto" src="./images/graphic.png"/>
 
-- 🌱 I’m currently exploring **New Technologies**
+- 🌱 I’m currently exploring **New Web Technologies**
 
 - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact: **It’s all 0’s and 1’s**
+- ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
   </samp>
 </div>
 
@@ -46,20 +46,23 @@
 
   <div align="center">
     <h3>Frontend</h3>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="bootstrap"/>
-    </a>
-    <a href="https://babeljs.io/" target="_blank">
-      <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-    </a>
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
         alt="react"/> 
     </a>
+    <a href="https://babeljs.io/" target="_blank">
+      <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next"/> 
+    </a>
     <a href="https://redux.js.org" target="_blank"> 
       <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-    </a> 
+    </a>
+    <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="bootstrap"/>
+    </a>
     <a href="https://jquery.com/" target="_blank">
       <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
     </a>
@@ -101,21 +104,13 @@
     <a href="https://aws.amazon.com/" target="_blank">
       <img  src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> 
     </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-    </a>
     <a href="https://heroku.com" target="_blank"> 
       <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
         alt="heroku"/> 
-    </a> 
-  </div>
-
-  <div align="center">
-    <h3>Testing</h3>
-    <a href="https://jestjs.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white"
-        alt="jestjs" /> 
-    </a> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+    </a>
   </div>
 
   <div align="center">
@@ -126,6 +121,10 @@
     </a>
     <a href="https://github.com" target="_blank">
       <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+    <a href="https://bitbucket.org/" target="_blank">
+      <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"
+        alt="bitbucket"/>
     </a>
     <a href="https://gitlab.com" target="_blank">
       <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
@@ -138,17 +137,20 @@
 
   <div align="center">
     <h3>Preferred IDEs, Tools & Platform</h3>
-    <a href="https://eclipse.org" target="_blank">
-      <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-    </a>
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
     </a>
     <a href="https://postman.com" target="_blank"> 
       <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
     </a>
+    <a href="https://www.apple.com/in/mac/" target="_blank"> 
+      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="mac"/>
+    </a>
     <a href="https://ubuntu.com/" target="_blank"> 
       <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+    </a>
+    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> 
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
     </a>
   </div>
   
