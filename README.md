@@ -19,9 +19,9 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayjain13&count_private=true&show_icons=true&theme=radical"
+  <img width="25rem" src="https://github-readme-stats.vercel.app/api?username=abhayjain13&count_private=true&show_icons=true&theme=radical"
     alt="https://github.com/abhayjain13" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjain13&theme=radical" alt="https://github.com/abhayjain13" />
+  <img width="25rem" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjain13&theme=radical" alt="https://github.com/abhayjain13" />
 </div>
 
 <br>
