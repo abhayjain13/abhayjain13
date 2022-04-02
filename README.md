@@ -192,7 +192,6 @@
   </div>
 </div>
 
-<hr>
 <div align="center">
   <h2>Github stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=abhayjain13&count_private=true&show_icons=true&theme=radical"
