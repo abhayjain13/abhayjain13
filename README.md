@@ -24,6 +24,8 @@
 
 
 
+<br><br>
+
   <div align="center">
     <h3>Languages</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
