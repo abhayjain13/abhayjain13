@@ -190,7 +190,7 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a  href="https://www.instagram.com/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/<abhayjain13>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
     </a>
   </div>
   <div>
