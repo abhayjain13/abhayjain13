@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  <samp>
 - 🌱 I’m currently exploring **New Web Technologies**
 
 - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
@@ -17,7 +16,6 @@
 - 💬 Ask me about **Web Development**
 
 - ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
-  </samp>
 </div>
 
 
