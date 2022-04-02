@@ -4,20 +4,23 @@
   <h3>Developer from India.</h3>
 </div>
 
-<div align="center">
-  <div>
-    - 🌱 I’m currently exploring <strong>New Web Technologies</strong>
+<div>
+  <samp>
+- 🌱 I’m currently exploring **New Web Technologies**
 
-    - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
+- 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
 
-    - 🤝 I’m looking for help with **Frontend Design**
+- 🤝 I’m looking for help with **Frontend Design**
 
-    - 👨‍💻 All of my projects are available at [Github](https://github.com/abhayjain13)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/abhayjain13)
 
-    - 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development**
 
-    - ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
-  </div>
+- ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
+    
+    
+    <img align="right" width="290rem" height="auto" src="./images/graphic.png"/>
+  </samp>
 </div>
 
 
