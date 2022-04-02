@@ -5,17 +5,19 @@
 </div>
 
 <div align="center">
-- 🌱 I’m currently exploring **New Web Technologies**
+  <div>
+    - 🌱 I’m currently exploring <strong>New Web Technologies</strong>
 
-- 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
+    - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
 
-- 🤝 I’m looking for help with **Frontend Design**
+    - 🤝 I’m looking for help with **Frontend Design**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/abhayjain13)
+    - 👨‍💻 All of my projects are available at [Github](https://github.com/abhayjain13)
 
-- 💬 Ask me about **Web Development**
+    - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
+    - ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
+  </div>
 </div>
 
 
