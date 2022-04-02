@@ -4,8 +4,11 @@
   <h3>Developer from India.</h3>
 </div>
 
+
 <div>
   <samp>
+    <img align="right" width="290rem" height="auto" src="./images/graphic.png"/>
+
 - 🌱 I’m currently exploring **New Web Technologies**
 
 - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
@@ -17,12 +20,8 @@
 - 💬 Ask me about **Web Development**
 
 - ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript”**
-    
-    
-    <img align="right" width="290rem" height="auto" src="./images/graphic.png"/>
   </samp>
 </div>
-
 
 
 <br><br>
