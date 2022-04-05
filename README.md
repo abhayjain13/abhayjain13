@@ -2,17 +2,17 @@
   <samp>
     <img align="right" width="300rem" height="auto" src="./images/coder.webp"/>
 
-- 🌱 I’m currently exploring **New Web Technologies**
+- 🌱 I’m currently exploring **Web 3.0**
 
 - 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
 
 - 🤝 I’m looking for help with **Frontend Design**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/abhayjain13)
+- 👨‍💻 All of my testbed projects are available at [Github](https://github.com/abhayjain13)
 
 - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact: **Knock, knock … Who’s there? … *very long pause* … Javascript**
+- ⚡ Fun fact: **How do you comfort a JavaScript bug? ... *You console it* **
   </samp>
 </div>
 
