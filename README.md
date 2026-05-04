@@ -1,159 +1,103 @@
-<div>
-  <samp>
-    <img align="right" width="300rem" height="auto" src="./images/coder.webp"/>
+<div align="center">
 
-- 🌱 I’m currently exploring **Web 3.0**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhay%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&descAlignY=55&descSize=18" width="100%"/>
 
-- 👯 Looking out to collaborate on <strong>Web Development Projects</strong>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Technical+Lead+%40+Paytm;Building+AI+Infrastructure+at+Scale;Distributed+Systems+%7C+LLMs+%7C+MCP;100M%2B+Monthly+Sessions+Served)](https://readme-typing-svg.demolab.com)
 
-- 🤝 I’m looking for help with **Frontend Design**
-
-- 👨‍💻 All of my testbed projects are available at [Github](https://github.com/abhayjain13)
-
-- 💬 Ask me about **Web Development**
-
-- ⚡ Fun fact: **How do you comfort a JavaScript bug? ... *You console it* **
-  </samp>
 </div>
 
-<br><br>
+---
+
+<img align="right" width="280rem" src="./images/coder.webp"/>
+
+### About Me
+
+- 🏗️ **Systems Architect & AI Engineer** — Technical Lead, Platform Architecture at **Paytm**
+- 🤖 Building **production-grade AI infrastructure** — agentic workflows, RAG pipelines & MCP integrations
+- 🚀 Platform serving **100M+ monthly sessions** across 8 product teams
+- 👯 Open to collaborating on **Distributed Systems & AI/LLM Projects**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/abhayjain13)
+- 💬 Ask me about **System Design, AI Orchestration & Platform Architecture**
+- 📫 Reach me at **abhayjain139@gmail.com**
+- ⚡ Fun fact: **Why do LLMs never feel lost?** *Attention is all they need*
+
+<br clear="right"/>
+
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhayjain13&count_private=true&show_icons=true&theme=radical"
-    alt="https://github.com/abhayjain13" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjain13&theme=radical" alt="https://github.com/abhayjain13" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhayjain13&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjain13&theme=radical&hide_border=true&border_radius=10" />
 </div>
-
-<br>
-
-  <div align="center">
-    <h3>Languages</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-        alt="javascript"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-        alt="html5"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-        alt="css3"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-      <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-        alt="typescript"/>
-    </a>
-  </div>
-
-  <div align="center">
-    <h3>Frontend</h3>
-    <div>
-      <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-          alt="react"/> 
-      </a>
-      <a href="https://babeljs.io/" target="_blank">
-        <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-      </a>
-      <a href="https://nextjs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next"/> 
-      </a>
-       <a href="hhttps://vuejs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vue"/> 
-      </a>
-      <a href="https://redux.js.org" target="_blank"> 
-        <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-      </a>
-    </div>
-    <div>
-      <a href="https://webpack.js.org/" target="_blank">
-        <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-          alt="webpack"/>
-      </a>
-      <a href="https://sass-lang.com/" target="_blank">
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
-          alt="sass"/>
-      </a>
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-          alt="bootstrap"/>
-      </a>
-      <a href="https://jquery.com/" target="_blank">
-        <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-      </a>
-    </div>
-  </div>
-
-  <div align="center">
-    <h3>Backend</h3>
-    <a href="https://nodejs.org" target="_blank"> 
-      <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-        alt="nodejs"/> 
-    </a>
-    <a href="https://www.nginx.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-        alt="nginx"/> 
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-        alt="docker"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank"> 
-      <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-    </a>
-  </div>
-
-  <div align="center">
-    <h3>Database</h3>
-    <a href="https://redis.io" target="_blank"> 
-      <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-        alt="redis"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mongodb"/> 
-    </a>
-  </div>
-
-  <div align="center">
-    <h3>Cloud & Hosting</h3>
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img  src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> 
-    </a>
-    <a href="https://heroku.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-        alt="heroku"/> 
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-    </a>
-  </div>
 
 <div align="center">
-  <h3>Connect with me</h3>
-  <div>
-    <a  href="https://www.facebook.com/abhayjain139" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
-    </a>
-    <a  href="https://www.linkedin.com/in/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a  href="https://www.instagram.com/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://twitter.com/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-    </a>
-    <a href="https://abhayjain13.medium.com" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
-    </a>
-    <a href="https://dribbble.com/abhayjain13" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="dribbble"/>
-    </a>
-  </div>
+  <img width="59%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayjain13&theme=radical" />
+  <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhayjain13&amp;theme=radical" />
 </div>
 
-<br><br>
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
+**AI & LLM**
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+
+**Frontend**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![SASS](https://img.shields.io/badge/SASS-FF69B4?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+
+**Backend & Infrastructure**
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
+
+**Database**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+**Cloud & Hosting**
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+</div>
+
+---
+
+### Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayjain13)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhayjain13)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhayjain13)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhayjain13.medium.com)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
+</div>
