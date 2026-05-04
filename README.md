@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <img align="right" width="280rem" src="./images/coder.webp"/>
 
 ### About Me
@@ -23,8 +21,6 @@
 
 <br clear="right"/>
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -36,8 +32,6 @@
   <img width="59%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayjain13&theme=radical" />
   <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhayjain13&amp;theme=radical" />
 </div>
-
----
 
 ### Tech Stack
 
@@ -84,8 +78,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 </div>
-
----
 
 ### Connect with Me
 
